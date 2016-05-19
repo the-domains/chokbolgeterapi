@@ -1,0 +1,28 @@
+name: Chokbølgeterapi
+favicon: null
+layout_spectrum: 0.7027952009811997
+typography_spectrum: 0.44661209965124726
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5625877685379237
+  lightness: 0.37345494981855154
+  saturation: 0.3429451184347272
+  rhythmicContrast: 0.3340920112095773
+purpose: []
